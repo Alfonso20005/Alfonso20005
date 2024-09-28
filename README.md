@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alfonso</h1>
-<h3 align="center">💻 **Desarrollador en formación** | I am a student of DAW and DAM in Spain</h3>
+<h3 align="center">💻 Training Developer &nbsp; | &nbsp;  Currently studying Web Application Development (DAW)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfonso20005&label=Profile%20views&color=0e75b6&style=flat" alt="alfonso20005" /> </p>
 
