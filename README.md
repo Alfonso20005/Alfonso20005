@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me :
 <div style="display: inline_block">
- <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
+  <img align="right" width="250" height="250" style="border-radius:30px; margin-top: -10px;" src="naruto.gif?raw=true" />
 
 - 🌱 I’m currently learning **React and Python**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **alfonso.ascaso.lizarrondo@gmail.com**
 </div>
-<br>
+
 
 
 <h3 align="left">Connect with me:</h3>
