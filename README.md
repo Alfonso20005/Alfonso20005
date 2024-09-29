@@ -11,6 +11,15 @@
 
 - 📫 How to reach me **alfonso.ascaso.lizarrondo@gmail.com**
 
+### Sobre mim
+<div style="display: inline_block"  >
+  <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
+  <p> - 👨‍💻 Engenheiro de Software Jr no Itaú Unibanco. </p>
+  <p> - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas </p>
+  <p> - 🎯 Interesse: Java, Kotlin, Spring Boot, Micronaut, API , HTML, CSS, JavaScript, Angular, AWS , kafka e Docker . </p>
+  <p> - 🦊 Quando me perguntaram o que eu queria ser ? há um tempo atrás a minha resposta foi "SER HOKAGE" e hoje eu sou um engenheiro de software, nada haver kkk. Sou fã     do anime Naruto , eaê, bora assistir uns filler juntos ? </p>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alfonso-ascaso-lizarrondo-b6b615327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfonso-ascaso-lizarrondo-b6b615327" height="30" width="40" /></a>
