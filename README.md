@@ -33,7 +33,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfonso20005&show_icons=true&locale=en" alt="alfonso20005" width="393" height="200" /></p>
 
+ ## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Alfonso20005/count.svg" />
+ </p>
 
+![Snake animation](https://github.com/Alfonso20005/Alfonso20005/raw/output/github-contribution-grid-snake.gif)
 <!--
 **Alfonso20005/Alfonso20005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
