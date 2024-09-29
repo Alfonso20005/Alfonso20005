@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alfonso</h1>
 <h3 align="center">💻 Training Developer &nbsp; | &nbsp;  Currently studying Web Application Development (DAW)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alfonso20005&label=Profile%20views&color=0e75b6&style=flat" alt="alfonso20005" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alfonso20005" alt="alfonso20005" /></a> </p>
+---
 
 - 🌱 I’m currently learning **React and Python**
 
