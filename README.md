@@ -39,6 +39,7 @@
  </p>
 
 ![Snake animation](https://raw.githubusercontent.com/Alfonso20005/Alfonso20005/output/github-contribution-grid-snake.svg)
+
 <!--
 **Alfonso20005/Alfonso20005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
