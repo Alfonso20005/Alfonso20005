@@ -38,14 +38,7 @@
    <img alingn="center" src="https://profile-counter.glitch.me/Alfonso20005/count.svg" />
  </p>
 
-<<<<<<< HEAD
 ![Snake animation](https://raw.githubusercontent.com/Alfonso20005/Alfonso20005/output/github-contribution-grid-snake.svg)
-=======
-![Snake animation]("https://github.com/Alfonso20005/Alfonso20005/raw/output/github-contribution-grid-snake.gif")
-
-
-
->>>>>>> 0eaf5f4227d43d1726e80cdb32495422a27bc071
 <!--
 **Alfonso20005/Alfonso20005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
