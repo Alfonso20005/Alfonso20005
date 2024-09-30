@@ -101,6 +101,11 @@
    <img alingn="center" src="https://profile-counter.glitch.me/Alfonso20005/count.svg" />
  </p>
 
+##
+
+![#](snake.gif)
+
+
 <!--
 **Alfonso20005/Alfonso20005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
