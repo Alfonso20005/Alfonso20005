@@ -5,10 +5,11 @@
 
 <br>
 
+<img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
+
 ### 👨‍💻 About Me :
 <div style="display: inline_block">
-  <img align="right" width="250" height="250" style="border-radius:30px; margin-top: -50px;" src="naruto.gif?raw=true" />
-
+  
 - 🌱 I’m currently learning **React and Python**
 
 - 💬 Ask me about **JavaScript, Databases or Software Tools**
