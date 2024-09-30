@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="../images/mano.gif" width="30px" > , I'm Alfonso</h1>
 
+
 <h3 align="center">💻 Training Developer &nbsp; | &nbsp;  Currently studying Web Application Development (DAW)</h3>
 
 ![https://github.com/Alfonso20005](../images/Tecnologies.png)
