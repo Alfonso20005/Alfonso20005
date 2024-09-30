@@ -1,13 +1,13 @@
-<h1 align="center">Hi <img src="../images/mano.gif" width="30px" > , I'm Alfonso</h1>
+<h1 align="center">Hi <img src="images/mano.gif" width="30px" > , I'm Alfonso</h1>
 
 
 <h3 align="center">💻 Training Developer &nbsp; | &nbsp;  Currently studying Web Application Development (DAW)</h3>
 
-![https://github.com/Alfonso20005](../images/Tecnologies.png)
+![https://github.com/Alfonso20005](images/Tecnologies.png)
 
 <br>
 
-<img align="right" width="250" height="250" style="border-radius:30px;" src="../images/naruto.gif?raw=true" />
+<img align="right" width="250" height="250" style="border-radius:30px;" src="images/naruto.gif?raw=true" />
 
 ### 👨‍💻 About Me :
 <div style="display: inline_block">
@@ -104,7 +104,7 @@
 
 ##
 
-![#](../images/snake.gif)
+![#](images/snake.gif)
 
 
 <!--
