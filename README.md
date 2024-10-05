@@ -81,9 +81,9 @@
  
  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original-wordmark.svg" alt="Cloudflare logo" width="40" height="40">
 &nbsp;&nbsp;&nbsp;&nbsp;
+-->
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma logo" width="40" height="40">
 &nbsp;&nbsp;&nbsp;&nbsp;
--->
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg" alt="GIMP logo" width="40" height="40">
 
